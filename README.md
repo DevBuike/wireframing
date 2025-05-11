@@ -40,4 +40,4 @@ Figma is a collaborative design tool that offers easy-to-use features for both l
 **Other tools include**
  * **Adobe XD**
  * **Miro**
-**Sketch**
+ * **Sketch**
