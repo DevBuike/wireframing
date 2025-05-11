@@ -42,18 +42,18 @@ Figma is a collaborative design tool that offers easy-to-use features for both l
  * **Miro**
  * **Sketch**
 
-##🧩 Benefits of Wireframing in Software Development
+##🧩 Benefits of Wireframing in Software Development.  
 Wireframing is a fundamental step in the software development lifecycle. It involves creating low-fidelity visual guides that represent the skeletal framework of an application or website.
 
-**🚀 Why Wireframing Matters
- 1. Clarifies Project Requirements
+**🚀 Why Wireframing Matters**
+ 1. Clarifies Project Requirements:
 Wireframes help translate vague ideas into tangible visuals early in the process.
 
 Example: Instead of saying "We need a user-friendly login page," a wireframe can show layout options, form placements, and user flows clearly.
 
 This helps stakeholders and developers agree on what needs to be built, reducing ambiguity.
 
- 2. Guides the Design and Development Process
+ 2. Guides the Design and Development Process:
 Wireframes act as blueprints for both designers and developers.
 
 Designers use wireframes to plan visual hierarchies, spacing, and user experience flow.
@@ -62,7 +62,7 @@ Developers rely on wireframes to understand what components need to be built, wh
 
 Example: A wireframe of a dashboard might show charts, navigation tabs, and notification areas, allowing frontend and backend teams to divide responsibilities early.
 
- 3. Facilitates Better Communication Across Teams
+ 3. Facilitates Better Communication Across Teams:
 Wireframes are a universal visual language that helps bridge the gap between technical and non-technical team members.
 
 Stakeholders can provide feedback early without needing to understand code or design tools.
@@ -71,7 +71,7 @@ Product managers, developers, and UX designers can align their understanding of 
 
 Example: During a sprint planning session, reviewing a wireframe of a new settings panel helps clarify what the API should return and what UI states need to be accounted for (e.g., toggle switches, modals, etc.).
 
- 4. Saves Time and Resources
+ 4. Saves Time and Resources:
 Catching issues in the wireframing stage is much cheaper than after code has been written.
 
 Prevents unnecessary rework.
@@ -80,7 +80,7 @@ Encourages early iteration and fast prototyping.
 
 Example: If a user flow in a checkout process feels confusing in a wireframe, it’s much easier to revise that than re-implement a broken flow in code.
 
- 5. Improves User-Centered Design
+ 5. Improves User-Centered Design:
 Wireframes help keep the end-user experience front and center.
 
 Helps identify potential usability issues early.
