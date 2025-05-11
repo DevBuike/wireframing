@@ -78,3 +78,25 @@ Helps identify potential usability issues early.
 Encourages thinking through each screen and interaction.
 
  * Example: A wireframe might reveal that a "Reset Password" button is buried too deep in navigation, prompting a redesign before it becomes a real UX problem.
+
+## real-world wireframing scenario  
+A growing online retailer noticed a high cart abandonment rate during the checkout phase. The product team decided to redesign the checkout flow to improve conversions and reduce friction. They began the process with detailed wireframes before moving into design or development.  
+
+**💡 Problem Identified:**
+When wireframes were reviewed by stakeholders and tested with real users:
+ * Testers felt overwhelmed by the number of steps.
+ * Many assumed they had to create an account before purchasing, due to a mandatory login screen placed before step 1.
+ * Mobile testers noted that the form fields were too dense and not optimized for small screens.
+
+**🛠️ Resolution:**
+1. Wireframe Adjustments:
+
+  * The login step was moved to after the user entered their shipping info, with an option to check out as a guest.
+  * The four steps were consolidated into two clear steps:
+    * Shipping + Payment
+    * Confirmation
+  * Field inputs were optimized for mobile (larger touch targets, split into multiple screens).
+
+2. Re-Testing:
+  * New wireframes were shared with test users.
+  * Feedback confirmed that the process was faster, easier, and less intimidating.
