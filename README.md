@@ -30,3 +30,14 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
  * High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
 
 ## The type of wireframe used in the [AirBnB clone wireframing]([https://pages.github.com/](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f)) is a High-Fidelity wireframe
+
+## Wireframing Tools  
+There tools for wireframing such as:
+
+**Figma**  
+Figma is a collaborative design tool that offers easy-to-use features for both low- and high-fidelity wireframes and allows prototype linking and developer handoff. It supports real-time collaboration also.
+
+**Other tools include**
+ * **Adobe XD**
+ * **Miro**
+**Sketch**
