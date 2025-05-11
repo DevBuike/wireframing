@@ -42,7 +42,7 @@ Figma is a collaborative design tool that offers easy-to-use features for both l
  * **Miro**
  * **Sketch**
 
-##🧩 Benefits of Wireframing in Software Development.  
+## 🧩 Benefits of Wireframing in Software Development.  
 Wireframing is a fundamental step in the software development lifecycle. It involves creating low-fidelity visual guides that represent the skeletal framework of an application or website.
 
 **🚀 Why Wireframing Matters**
