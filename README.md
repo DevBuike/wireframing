@@ -49,7 +49,7 @@ Wireframing is a fundamental step in the software development lifecycle. It invo
  1. Clarifies Project Requirements:
 Wireframes help translate vague ideas into tangible visuals early in the process.
 
-Example: Instead of saying "We need a user-friendly login page," a wireframe can show layout options, form placements, and user flows clearly.
+ * Example: Instead of saying "We need a user-friendly login page," a wireframe can show layout options, form placements, and user flows clearly.
 
 This helps stakeholders and developers agree on what needs to be built, reducing ambiguity.
 
@@ -60,7 +60,7 @@ Designers use wireframes to plan visual hierarchies, spacing, and user experienc
 
 Developers rely on wireframes to understand what components need to be built, where they belong, and how users will interact with them.
 
-Example: A wireframe of a dashboard might show charts, navigation tabs, and notification areas, allowing frontend and backend teams to divide responsibilities early.
+ * Example: A wireframe of a dashboard might show charts, navigation tabs, and notification areas, allowing frontend and backend teams to divide responsibilities early.
 
  3. Facilitates Better Communication Across Teams:
 Wireframes are a universal visual language that helps bridge the gap between technical and non-technical team members.
@@ -69,7 +69,7 @@ Stakeholders can provide feedback early without needing to understand code or de
 
 Product managers, developers, and UX designers can align their understanding of the feature scope and priority.
 
-Example: During a sprint planning session, reviewing a wireframe of a new settings panel helps clarify what the API should return and what UI states need to be accounted for (e.g., toggle switches, modals, etc.).
+ * Example: During a sprint planning session, reviewing a wireframe of a new settings panel helps clarify what the API should return and what UI states need to be accounted for (e.g., toggle switches, modals, etc.).
 
  4. Saves Time and Resources:
 Catching issues in the wireframing stage is much cheaper than after code has been written.
@@ -78,7 +78,7 @@ Prevents unnecessary rework.
 
 Encourages early iteration and fast prototyping.
 
-Example: If a user flow in a checkout process feels confusing in a wireframe, it’s much easier to revise that than re-implement a broken flow in code.
+ * Example: If a user flow in a checkout process feels confusing in a wireframe, it’s much easier to revise that than re-implement a broken flow in code.
 
  5. Improves User-Centered Design:
 Wireframes help keep the end-user experience front and center.
@@ -87,4 +87,4 @@ Helps identify potential usability issues early.
 
 Encourages thinking through each screen and interaction.
 
-Example: A wireframe might reveal that a "Reset Password" button is buried too deep in navigation, prompting a redesign before it becomes a real UX problem.
+ * Example: A wireframe might reveal that a "Reset Password" button is buried too deep in navigation, prompting a redesign before it becomes a real UX problem.
